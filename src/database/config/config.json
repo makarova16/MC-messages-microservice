@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vxzfutsm",
+    "password": "Rrc22hSxiAl2FG2aEyLbnnoUS89pbDhv",
+    "database": "vxzfutsm",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "tmdvsvti",
+    "password": "oCXiGVHZA4Tex-jBpEGxd6fILIMMei9k",
+    "database": "tmdvsvti",
+    "host": "dumbo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
